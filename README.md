@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2025 (and fixing then one by one )<br>📚 I'm currently learning: Python , Java & Data Structures<br>🎯 Goals: Become a skilled software developer and build real-world projects<br>🎲 Fun fact: I enjoy debugging more than writing code 😄</p>
+<p align="left">✨ Creating bugs since: 2025 (and fixing then one by one )<br>📚 I'm competent in Python , Core Java & Data Structures<br>🎯 Goals: Become a skilled software developer and build real-world projects<br>🎲 Fun fact: I enjoy debugging more than writing code 😄</p>
 
 ###
 
